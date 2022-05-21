@@ -39,4 +39,8 @@ Donde
 ● elements: valores sobre los que se realizó la operación.
 ```
 
+
+## AVISO IMPORTANTE
+Se debe agregar el archivo https://sig.cdmx.gob.mx/datos/#d_datos_cat a la carpeta Database con el nombre de data.csv antes de ejecutar la migración.
+
 [MIT](https://choosealicense.com/licenses/mit/)
